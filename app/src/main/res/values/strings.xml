@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Автобуси Битола</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="avtobus1">Џем Турс</string>
+    <string name="avtobus2">Гопеш Транс</string>
+    <string name="avtobus3">Турист Превоз</string>
+    <string name="avtobus4">Хера Превоз</string>
+    <string name="avtobus5">Хера Транс</string>
+    <string name="avtobus6">Боби Турс</string>
+    <string name="avtobus7">Лука Експрес</string>
+    <string name="avtobus8">Марија Транс</string>
+    <string name="avtobus9">Џими Турс</string>
+    <string name="avtobus10">Хера Турс</string>
+
+    <string name="postojka1">postojka1</string>
+    <string name="postojka2">postojka2</string>
+    <string name="postojka3">postojka3</string>
+    <string name="postojka4">postojka4</string>
+    <string name="postojka5">postojka5</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_avtobus1"
+            android:icon="@drawable/eden"
+            android:title="@string/avtobus1" />
+        <item
+            android:id="@+id/nav_avtobus2"
+            android:icon="@drawable/dva"
+            android:title="@string/avtobus2" />
+        <item
+            android:id="@+id/nav_avtobus3"
+            android:icon="@drawable/tri"
+            android:title="@string/avtobus3" />
+        <item
+            android:id="@+id/nav_avtobus4"
+            android:icon="@drawable/chetiri"
+            android:title="@string/avtobus4" />
+        <item
+            android:id="@+id/nav_avtobus5"
+            android:icon="@drawable/pet"
+            android:title="@string/avtobus5" />
+        <item
+            android:id="@+id/nav_avtobus6"
+            android:icon="@drawable/shes"
+            android:title="@string/avtobus6" />
+        <item
+            android:id="@+id/nav_avtobus7"
+            android:icon="@drawable/sedum"
+            android:title="@string/avtobus7" />
+        <item
+            android:id="@+id/nav_avtobus8"
+            android:icon="@drawable/osum"
+            android:title="@string/avtobus8" />
+        <item
+            android:id="@+id/nav_avtobus9"
+            android:icon="@drawable/devet"
+            android:title="@string/avtobus9" />
+        <item
+            android:id="@+id/nav_avtobus10"
+            android:icon="@drawable/deset"
+            android:title="@string/avtobus10" />
+    </group>
+
+</menu>
